@@ -1,0 +1,225 @@
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\TARPWEB.dll.config
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\TARPWEB.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\TARPWEB.pdb
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\csc.exe
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\csc.exe.config
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\csc.rsp
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\csi.exe
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\csi.exe.config
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\csi.rsp
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.AppContext.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Console.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\vbc.exe
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\vbc.exe.config
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\vbc.rsp
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Antlr3.Runtime.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Newtonsoft.Json.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\System.Web.Optimization.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\WebGrease.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\System.Web.Optimization.xml
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Newtonsoft.Json.xml
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Antlr3.Runtime.pdb
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\yashj\source\repos\TARP\TARPWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yashj\source\repos\TARP\TARPWEB\obj\Debug\TARPWEB.csprojAssemblyReference.cache
+C:\Users\yashj\source\repos\TARP\TARPWEB\obj\Debug\TARPWEB.csproj.CoreCompileInputs.cache
+C:\Users\yashj\source\repos\TARP\TARPWEB\obj\Debug\TARPWEB.csproj.CopyComplete
+C:\Users\yashj\source\repos\TARP\TARPWEB\obj\Debug\TARPWEB.dll
+C:\Users\yashj\source\repos\TARP\TARPWEB\obj\Debug\TARPWEB.pdb
+E:\TARP\TARPWEB\bin\TARPWEB.dll.config
+E:\TARP\TARPWEB\bin\TARPWEB.dll
+E:\TARP\TARPWEB\bin\TARPWEB.pdb
+E:\TARP\TARPWEB\bin\roslyn\csc.exe
+E:\TARP\TARPWEB\bin\roslyn\csc.exe.config
+E:\TARP\TARPWEB\bin\roslyn\csc.rsp
+E:\TARP\TARPWEB\bin\roslyn\csi.exe
+E:\TARP\TARPWEB\bin\roslyn\csi.exe.config
+E:\TARP\TARPWEB\bin\roslyn\csi.rsp
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TARP\TARPWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TARP\TARPWEB\bin\roslyn\System.AppContext.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Collections.Immutable.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Console.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TARP\TARPWEB\bin\roslyn\System.IO.Compression.dll
+E:\TARP\TARPWEB\bin\roslyn\System.IO.FileSystem.dll
+E:\TARP\TARPWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TARP\TARPWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\TARP\TARPWEB\bin\roslyn\System.IO.Pipes.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Security.AccessControl.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Security.Claims.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Security.Principal.Windows.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TARP\TARPWEB\bin\roslyn\System.ValueTuple.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Xml.XPath.dll
+E:\TARP\TARPWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TARP\TARPWEB\bin\roslyn\vbc.exe
+E:\TARP\TARPWEB\bin\roslyn\vbc.exe.config
+E:\TARP\TARPWEB\bin\roslyn\vbc.rsp
+E:\TARP\TARPWEB\bin\roslyn\VBCSCompiler.exe
+E:\TARP\TARPWEB\bin\roslyn\VBCSCompiler.exe.config
+E:\TARP\TARPWEB\bin\Antlr3.Runtime.dll
+E:\TARP\TARPWEB\bin\AspNet.ScriptManager.bootstrap.dll
+E:\TARP\TARPWEB\bin\AspNet.ScriptManager.jQuery.dll
+E:\TARP\TARPWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\TARP\TARPWEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\TARP\TARPWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\TARP\TARPWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TARP\TARPWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\TARP\TARPWEB\bin\Microsoft.ScriptManager.WebForms.dll
+E:\TARP\TARPWEB\bin\Microsoft.Web.Infrastructure.dll
+E:\TARP\TARPWEB\bin\Newtonsoft.Json.dll
+E:\TARP\TARPWEB\bin\System.Diagnostics.DiagnosticSource.dll
+E:\TARP\TARPWEB\bin\System.Web.Optimization.dll
+E:\TARP\TARPWEB\bin\WebGrease.dll
+E:\TARP\TARPWEB\bin\System.Web.Optimization.xml
+E:\TARP\TARPWEB\bin\Newtonsoft.Json.xml
+E:\TARP\TARPWEB\bin\Antlr3.Runtime.pdb
+E:\TARP\TARPWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\TARP\TARPWEB\bin\System.Diagnostics.DiagnosticSource.xml
+E:\TARP\TARPWEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\TARP\TARPWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TARP\TARPWEB\obj\Debug\TARPWEB.csprojAssemblyReference.cache
+E:\TARP\TARPWEB\obj\Debug\TARPWEB.csproj.CoreCompileInputs.cache
+E:\TARP\TARPWEB\obj\Debug\TARPWEB.csproj.CopyComplete
+E:\TARP\TARPWEB\obj\Debug\TARPWEB.dll
+E:\TARP\TARPWEB\obj\Debug\TARPWEB.pdb
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\TARPWEB.dll.config
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\TARPWEB.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\TARPWEB.pdb
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\csc.exe
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\csc.exe.config
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\csc.rsp
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\csi.exe
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\csi.exe.config
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\csi.rsp
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.AppContext.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Collections.Immutable.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Console.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.IO.Compression.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.IO.FileSystem.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.IO.Pipes.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Security.AccessControl.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Security.Claims.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Security.Principal.Windows.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.ValueTuple.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Xml.XPath.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\vbc.exe
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\vbc.exe.config
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\vbc.rsp
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\VBCSCompiler.exe
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\roslyn\VBCSCompiler.exe.config
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Antlr3.Runtime.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\AspNet.ScriptManager.bootstrap.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\AspNet.ScriptManager.jQuery.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.ScriptManager.WebForms.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.Web.Infrastructure.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Newtonsoft.Json.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\System.Diagnostics.DiagnosticSource.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\System.Web.Optimization.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\WebGrease.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\System.Web.Optimization.xml
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Newtonsoft.Json.xml
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Antlr3.Runtime.pdb
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\System.Diagnostics.DiagnosticSource.xml
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\obj\Debug\TARPWEB.csprojAssemblyReference.cache
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\obj\Debug\TARPWEB.csproj.CoreCompileInputs.cache
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\obj\Debug\TARPWEB.csproj.CopyComplete
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\obj\Debug\TARPWEB.dll
+E:\VIT University Study Material\Winter Semester 2018-2019\TARP\TARP\TARPWEB\obj\Debug\TARPWEB.pdb
